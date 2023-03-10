@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Kuliner Nusantara</string>
+    <string name="foods_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="about_name">Alfan Didan Septiandri Argandi</string>
+    <string name="email">fdidan09@gmail.com</string>
+    <string name="description_details">description</string>
+    <string name="gizi_description">gizi_description</string>
+    <string name="food_name">food_name</string>
+    <string name="img_food_detail">img_food</string>
+    <item name="about_photo" type="drawable">@drawable/alfandidan</item>
+    <string name="desc_title">Deskripsi</string>
+    <string name="gizi_title">Kandungan Gizi</string>
+    <string name="detail_label">Detail Makanan</string>
+    <string-array name="data_name">
+        <item>Bubur Manado</item>
+        <item>Gado-Gado</item>
+        <item>Sate Madura</item>
+        <item>Bubur Kacang Hijau</item>
+        <item>Rendang</item>
+        <item>Sayur Asem</item>
+        <item>Gudeg</item>
+        <item>Rujak Cingur</item>
+        <item>Soto Banjar</item>
+        <item>Bika Ambon</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Makanan ini terbuat dari beras, jagung, dan ubi kayu yang dicampur dengan sayur seperti kangkung, bayam, dan kemangi, serta beberapa bumbu dapur. Menurut Prof. Ahmad Sulaeman, PhD. dari Fakultas Ekologi Manusia Institut Teknologi Pertanian Bogor, sayur-sayuran di dalam tinutuan mengandung serat yang tinggi, kaya akan antioksidan, dan sedikit protein dari beras.</item>
+        <item>Gado-gado atau disebut juga Indonesian Salad merupakan makanan khas Betawi yang sangat terkanl di seluruh Indonesia. Bahkan orang-orang asing pun, banyak yang menyukai makanan ini. Sekilas gado-gado mirip dengan pecel, karena sama-sama menggunakan bumbu saus kacang. Gado-gado sudah populer di Betawi sejak tahun 1950an. Hal ini dibuktikan dengan lagu berjudul ”Gado-gado Betawi” yang oleh Ivo Nilakreshna.</item>
+        <item>Sate Madura merupakan makanan khas Madura yang terbuat dari daging ayam (bisa juga menggunakan daging kambing) yang dipotong kecil-kecil atau terkadang dipotong dadu dan ditusuk menggunakan tusuk sate yang terbuat dari bambu lalu dibakar. Makanan ini diklaim sebagai makanan para pendekar Ponorgo. Meski makanan ini berasal dari Madura, Jawa Timur, tetapi sate Madura telah tersebar di seluruh wilayah Indonesia. Menurut hasil survei makanan terenak di dunia yang dilakukan oleh CNNGo pada tahun 2017, sate menempati urutan ke-14 setelah chicken rise dari Singapura.</item>
+        <item>Bubur Kacang Hijau atau biasa disebut Burjo merupakan makanan khas Indonesia yang kaya akan serat. Sebagian besar bahan dasar bubur ini merupakan kacang hijau dengan campuran kuah santan yang membuat rasanya semakin gurih. Bubur kacang hijau dapat disajikan dingin dengan menambahkan es serut atau dapat juga disajikan hangat.</item>
+        <item>Rendang merupakan kuliner asli asal Minangkabau, Sumatra Barat. Orang Minang menyebut kuliner ini dengan nama ”randanga”. Asal katanya dari marandang, yang berarti memasak santan hingga kering secara perlahan. Sesuai dengan cara memasaknya yang lama hingga kuahnya hampir mengering. Makanan ini dibuat dengan dasar santan dan daging sapi yang direbus perlahan dengan campuran bumbu serai, lengkuas, bawang putih, kunying, jahe, dan cabai. Setelah mendidih, apinya dikecilkan dan terus diaduk hingga santan mengental dan menjadi kering.</item>
+        <item>Sayur Asem merupakan makanan berkuah khas Indonesia. Terdapat banyak variasi dari makanan ini. Contohnya sayur asem Betawi yang memiliki kuah bening namun memiliki rasa asam-pedas. Berbeda dengan sayur asam Jawa yang biasanya memiliki kuah berwarna kuning.</item>
+        <item>Gudeg merupakan makanan khas Yogyakarta yang berbahan dasar buah nagka muda atau oleh warga lokal disebut ”gori”. Sejarah gudeg dimulai sejak awal berdirinya kerajaan Mataram Islam di alas Mentaok yang ada di daerah Kotagede pada sekitar tahun 1500-an. Ada beberapa jenis gudeg; kering dan basah. Gudeg kering hanya memiliki sedikit santan sehingga memiliki sedikit saus sedangkan gudeg basah mempunyai banyak santan.</item>
+        <item>Rujak Cingur merupakan makanan khas Jawa Timur. Dalam bahasa Jawa kata cingur berarti mulut, dalam hal ini menunjuk pada bahan irisan mulut atau moncong sapi yang direbus dan dicampurkan ke dalam hidangan rujak. Rujak cingur disajikan dengan bumbu petis mlekoh yang terbuat dari kacang tanah goreng, bawang putih, pisang batu, gula jawa, terasi goreng, petis udang, serta garam.</item>
+        <item>Soto Banjar adalah kuliner berkuah berasal dari daerah Banjarmasin, Kalimantan Selatan. Kuliner ini terkenal dengan kuatnya cita rasa rempah yang digunakan. Kuliner ini memiliki kuah yang gurih dan creamy dengan salah satu bahannya menggunakan daging ayam kampung.</item>
+        <item>Bika Ambon merupakan salah satu makanan khas jenis kue basah asal Kota Medan, Sumatra Utara. Kue dengan rasa yang lezat ini sudah ada sejak puluhan tahun lalu dan sangat populer di Kota Medan. </item>
+    </string-array>
+    <string-array name="more_description">
+        <item>Serat tinggi dapat memperlancar pencernaan dan baik untuk sistem pencernaan. Karena itu Prof Ahmad mengatakan bahwa bubur manado ideal dijadikan menu sarapan dan baik untuk anak-anak.</item>
+        <item>Bahan-bahan yang digunakan dalam gado-gado terutama adalah sayur-sayuran seperti selada, kubis, bunga kol, kacang panjang, dan tauge. Selain bahan tersebut, terdapat juga kentang rebus, telur rebus, tempe, tahu, dan jagung pipil. Bahan-bahan tersebut diiris kecil-kecil supaya mudah dimakan. Kemudian disiram bumbu saus kacang.</item>
+        <item>Sate Madura dianggap sebagai hasil dari tanah di Madura yang sangat gersang. Sehingga masyarakat lebih memilih menyantap hewan ternak dan ikan laut. Sate Madura dihidangkan dengan bumbu saus kacang dan nasi. Di beberapa kota di Jawa Timur, sate Madura dihidangkan bersama sayur gule.</item>
+        <item>Bubur kacang hijau dibuat dengan bahan-bahan seperti kacang hijau, kuah santan, daun pandan, dan gula merah. Namun terdapat juga bubur kacang hijau yang ditambah jahe sebagai bahan tambahan suapaya rasanya semakin nikmat. Dengan bahan-bahan seperti disebut tadi, makanan ini mengandung banyak zat gizi, misalnya protein dan kaya akan serat. Selain itu, nutrisi lain yang terkandung dalam makanan ini yaitu, mineral dan vitamin, karbohidrat, serta asam folat. Bubur kacang hijau dipercaya dapat menurunkan berat badan hingga menjadi makanan yang dianjurkan bagi penderita Anemia</item>
+        <item>Makanan yang masuk ke daftar 50 makanan terlezat di dunia menurut situs CNNGo.com ini meskipun dimasak dengan waktu yang lama, ternyata kandungan gizinya tetap terjaga. Penelitian ini dilakukan oleh Guru Besar Universitas Andalas Padang Prof Fauzan Azima. Prof Fauzan mengatakan bahwa daya cerna protein meningkat dari 87.58 persen menjadi 91.51 persen saat rendang dimasak selama 30 menit. Saat rendang telah selesai dimasak, daya cerna protein menjadi 86.39 persen. Selain itu, selama proses pemasakan tidak terbentuk angka peroksida dan asam lemak trans berada pada angka 0.00 persen.</item>
+        <item>Bahan-bahan yang digunakan pun berbeda-beda. Misalnya di Jawa, sayur asem menggunakan bahan dasar buah asam untuk menciptakan rasa asam pada kuahnya. Sebagian besar bahan yang digunakan dalam sayur asam adalah sayur-sayuran yang mudah ditemukan di berbagai daerah, seperti kacang panjang, jagung, terong, daun ubi jalar, dan lain-lain. Untuk bumbunya, biasanya terdiri dari cabai, bawang merah, bawang putih, dan asam.</item>
+        <item>Dalam prosesnya, potongan daging nangka direbus dengan gula merah dan santan dengan api kecil selama beberapa jam. Gula merah tersebut yang membuat gudeg terasa manis dan memiliki warna merah kecoklatan. Bahan yang digunakan sebagai bumbunya yaitu, bawang merah, bawang putih, kemiri, ketumbar, lengkuas, daun salam, dan daun jati.</item>
+        <item>Rujak cingur biasanya terdiri dari irisan beberapa buah dan aneka sayuran. Adapun buah-buahan yang seringkali digunakan untuk membuat rujak cingur adalah mentimun, bengkuang, mangga muda, nanas, kedondong, dan kerahi atau krai yang merupakan jenis timun khas Jawa Timur. Sedangkan untuk sayur-sayuran yang biasa digunakan yaitu kecambah atau tauge, kangkung, dan kacang panjang. Kemudian untuk bahan pelengkapnya yaitu lontong, tahu, tempe goreng, bendoyo, dan irisan cingur sapi.</item>
+        <item>Cita rasa soto ini berasal dari akulturasi bumbu yang dibawa oleh sup khas Belanda; bangsa Arab yang membawa pengaruh berupa penambahan rempah, cengkeh, adas, dan kayu manis; budaya India yang membawa pengaruh dari makanan berbumbu kental seperti kare; ragam budaya tersebut kemudian bertemu dengan budaya Banjar yang menambahkan cita rasa lemak dari kaldu dan susu, serta cita rasa agak manis yang berasal dari kayu manis. Bahan-bahan yang digunakan dalam soto Banjar yaitu, daging ayam, bihun, ketupat, telur ayam rebus, perkedel, daun seledri, dan jeruk nipis. Bumbu yang digunakan dalam kuliner berkuah ini meliputi kapulaya, pekak, biji pala, kayu, bawang merah, bawang putih, kemiri, kunyit, garam, merica, dan manis. </item>
+        <item>Kue Bika Ambon ini mirip dengan kue khas Melayu yaitu bika atau bingka. Namun dalam pembuatannya, Bika Ambon dibuat dengan menambahkan pengembang dari bahan nira agar rasanya berbeda dari kue Bingka Melayu.</item>
+    </string-array>
+    <string-array name="gizi">
+        <item>Dalam satu porsi Bubur Manado mengandung Tembaga sebesar 38%, 33% Natrium, dan Serat Pangan sebesar 28%. Selain itu, kandungan zat gizi pokok yang terkandung dalam bubur ini meliputi Energi 156 kkal, Protein 2.30 g, Lemak 0.20 g, dan Karbo 15.60 g.</item>
+        <item>Untuk satu porsi gado-gado mengandung energi sebesar 137 kkal, protein sebesar 6.10 g, lemak 3.20 g, dan karbohidrat sebesar 21 g. Zat gizi unggulan dalam makanan ini yaitu, Besi 35%, Kalsium 28%, dan Fosfor 20%.</item>
+        <item>Dalam satu sajian sate Madura (100 g per sajian), terkandung energi sebesar 225 kkal, Protein sebesar 33% atau 19.54 g, Lemak sebesar 14.82 g, dan Karbohidrat 4.87 g. Selain itu, terdapat juga kandungan seperti Natrium sebesar 24%. Besaran kandungan gizi bergantung pada daging yang digunakan.</item>
+        <item>Dalam 120 gram bubur kacang hijau, terkandung energi sebesar 130 kkal, Protein sebesar 4.24 g, Lemak sebesar 3.68 g, dan Karbohidrat sebesar 21.31 g. Zat gizi yang paling dominan dari makanan ini yaitu Protein sebesar 8%, karbohidrat total 7%,  dan energi 7%.</item>
+        <item>Dalam 100 gram rendang terkandung zat gizi seperti Energi sebesar 193 kkal, Protein sebesar 22.60 g, Lemak sebesar 7.60 g, dan Karbohidrat sebesar 7.80 g. Zat gizi lain yang terkandung dalam rendang yaitu, zat besi sebesar 68%, Kalsium sebesar 44%, dan Protein 38%.</item>
+        <item>Sayur asem dengan prosi 100gram, mengandung energi sebesar 29 kkal, Protein 0.70 g, Lemak 0.60 g,  dan Karbohidrat sebesar 5 g. Zat gizi unggulan dari makanan ini yaitu, zat besi sebesar 15%, vitamin B1 10%, dan fosfor 9%.</item>
+        <item>Dalam 100gram gudeg, terkandung 160 kkal energi, Protein 3.30 g, Lemak 9.20 g, dan Karbohidrat 16 g. Selain zat gizi tersebut, ada beberapa zat gizi unggulan, misalnya zat besi 59%, vitamin B1 15%, dan lemak total 14%.</item>
+        <item>Dalam porsi 100gram rujak cingur, terkandung kalori sebesar 153 kkal, Protein 11.30 g, Lemak 8.40 g, dan Karbohidrat 8 g. Selain itu, zat unggulan yang terkandung dalam makanan ini yaitu Kalsium 24%, Fosfor 21%, dan zat Besi 20%.</item>
+        <item>Dalam 100 gram soto Banjar, terkandung kalori sebesar 110 kkal, Protein 2.90 g, Lemak 9.50 g, dan Karbohidrat 3.20. Zat lain yang terkandung dalam soto Banjar yaitu, Lemak total sebesar 15% dan Vitamin B1 sebesar 5%.</item>
+        <item>Dalam 100gram Bika Ambon, terkandung energi sebesar199 kkal, Protein sebesar 2.10 g, Lemak sebesar 1.50 g, dan Karbohidrat sebesar 44.40 g. Selain itu, terkandung juga zat gizi lain seperti Vitamin B1 sebesar 10%.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/bubur_manado</item>
+        <item>@drawable/gado_gado</item>
+        <item>@drawable/sate_madura</item>
+        <item>@drawable/bubur_kacang_hijau</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/sayur_asem</item>
+        <item>@drawable/gudeg</item>
+        <item>@drawable/rujak_cingur</item>
+        <item>@drawable/soto_banjar</item>
+        <item>@drawable/bika_ambon</item>
+    </integer-array>
+</resources>
